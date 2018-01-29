@@ -184,6 +184,10 @@ a:focus, a:hover {
   padding-bottom: 150px;
 }
 
+#white-background {
+  background-color: white !important;
+}
+
 .download-section {
   color: white;
   background: url("../img/downloads-bg.jpg") no-repeat center center scroll;
